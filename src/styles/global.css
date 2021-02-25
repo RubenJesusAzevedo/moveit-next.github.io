@@ -27,7 +27,7 @@
     }
 }
 body {
-    background: var(--backfround);
+    background: var(--background);
     color: var(--text);
 }
 
